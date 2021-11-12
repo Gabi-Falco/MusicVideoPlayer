@@ -20,6 +20,9 @@
 
 [![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@levinalab/StringSession#main.py) ``Pyrogram``
 
+Or you can use our TG bot
+[@pyrogram_string_genrobot](http://t.me/pyrogram_string_genrobot)
+
 ## 🎭 Preview
 <p align="center">
   <img src="https://telegra.ph/file/b8c1461bcbbad5664aa48.png">
