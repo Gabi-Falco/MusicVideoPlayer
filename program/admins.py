@@ -143,7 +143,7 @@ async def resume(client, m: Message):
 
 
 @Client.on_message(
-    command(["mute", f"mute@{BOT_USERNAME}", "vmute"]) & other_filters
+    command(["amute", f"amute@{BOT_USERNAME}", "vmute"]) & other_filters
 )
 @authorized_users_only
 async def mute(client, m: Message):
@@ -161,7 +161,7 @@ async def mute(client, m: Message):
 
 
 @Client.on_message(
-    command(["unmute", f"unmute@{BOT_USERNAME}", "vunmute"]) & other_filters
+    command(["aunmute", f"aunmute@{BOT_USERNAME}", "vunmute"]) & other_filters
 )
 @authorized_users_only
 async def unmute(client, m: Message):
